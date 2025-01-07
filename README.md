@@ -5,8 +5,10 @@
 __Instructor:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [__Marco Morales__](mailto:marco.morales@columbia.edu), Columbia University\
 __Co-Instructor:__ &nbsp; [__Nana Yaw Essuman__](mailto:nanayawce@gmail.com), Columbia University
 
+
+__TA:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[__Gauravi Patankar__](mailto:gsp2137@columbia.edu), Columbia University
+
 <!--
-__TAs:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[__Ludovico Genovese__](mailto:lg3148@columbia.edu), Columbia University\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[__Naveen Reddy Dyava__](mailto:nd2794@columbia.edu), Columbia University
 -->
 
@@ -14,7 +16,7 @@ __TAs:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 
 
-This repository is a companion to the course __Applied Data Science for Social Scientists__ taught at the [__Quantitative Methods in the Social Sciences__](http://qmss.columbia.edu/) program over the Spring of 2024.
+This repository is a companion to the course __Applied Data Science for Social Scientists__ taught at the [__Quantitative Methods in the Social Sciences__](http://qmss.columbia.edu/) program over the Spring of 2025.
 
 It contains curated reference materials, slides and sample code. You can find the most updated version of the course syllabus [here](/syllabus/GR5069_Spring2025.pdf). Make sure to check regularly for updates.
 
